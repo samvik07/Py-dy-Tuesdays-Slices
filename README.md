@@ -2,6 +2,7 @@
 Bite-sized weekly data explorations in Python, in connection with #TidyTuesday. One dataset, one slice at a time!
 
 This repo contains weekly data exploration and visualisation challenges inspired by the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) project — using Python. 
+
 "PydyTuesday is a Posit collaboration with TidyTuesday for exploring TidyTuesday data in Python."
 
 ### 📦 Dataset Sources
