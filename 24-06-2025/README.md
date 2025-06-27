@@ -28,9 +28,8 @@ Further information and detailed specification can be found on the official [Tid
           🌐 Do case classifications reveal healthcare surveillance capacities across regions?
 
 
-This dataset has a lot of information to explore with specific terms to understand, and it was difficult to interpret those in 30 minutes. 
-So the work for this week's task has been done fairly above the usual time limit!
-
+This dataset has a wealth of information and required understanding several specific terms, which made it challenging to interpret it within 30 minutes. 
+So this week’s task took a fair bit more time than usual!
 
 
            
