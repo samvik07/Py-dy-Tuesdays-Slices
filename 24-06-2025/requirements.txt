@@ -1,6 +1,7 @@
 ### 📦 Environment
 - Python: 3.12.3
 - pandas: 2.3.0
+- numpy: 1.26.4
 - matplotlib: 3.6.2
 - seaborn: 0.13.2
 - plotly: 6.1.2
