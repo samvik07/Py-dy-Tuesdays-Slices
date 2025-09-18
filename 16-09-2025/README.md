@@ -11,3 +11,7 @@ Background: Allrecipes.com, Inc., founded in 1997, is a food-focused online soci
 #### The dataset contains 2 csv files: 
       - all_recipes.csv
       - cuisines.csv
+
+'cuisines.csv' is a subset of 'all_recipes.csv' with all the columns and an additional column 'country' mapping the cuisine to its region/country.
+
+  In this exploration, I have focused on looking at the countries/regions of some popular cuisines and recipes.
